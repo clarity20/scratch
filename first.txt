@@ -1,2 +1,4 @@
+master top 1
 first edit, committed not pushed
 second edit, committed then pushed
+master bottom 1
