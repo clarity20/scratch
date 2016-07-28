@@ -4,3 +4,5 @@ second edit, committed then pushed
 master bottom 1
 first branch bottom 1
 first branch bottom 2
+This change added to test detailed commit messages with headers; see
+  http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
