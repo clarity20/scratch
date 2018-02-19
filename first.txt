@@ -1,3 +1,4 @@
+This line is for trying out git stash
 master top 1
 first edit, committed not pushed
 second edit, committed then pushed
