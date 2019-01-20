@@ -9,3 +9,5 @@ This change added to test detailed commit messages with headers; see
   http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 This line added after stashing the preceding change. Hypothesis: the stash pop
   action will bring both changes into the master branch.
+Debugging git push on laptop...
+
