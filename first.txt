@@ -10,4 +10,4 @@ This change added to test detailed commit messages with headers; see
 This line added after stashing the preceding change. Hypothesis: the stash pop
   action will bring both changes into the master branch.
 Debugging git push on laptop...
-
+Trying command line authentication with new token scheme.
