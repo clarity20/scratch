@@ -7,7 +7,7 @@ first branch bottom 1
 first branch bottom 2
 This change added to test detailed commit messages with headers; see
   http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
-This line added after stashing the preceding change. Hypothesis: the stash pop
+This line added after stashing the p:::bbbbb change. Hypothesis: the stash pop
   action will bring both changes into the master branch.
 Debugging git push on laptop...
 Trying command line authentication with new token scheme.
@@ -15,4 +15,5 @@ A quick change to practice vim-fugitive
 Trying cygwin git rather than Windows git
 Retry cygwin git after setting up new psl access token on Github
 Try vim_fugitive with cygwin git installed in dft loc of /usr/bin and verified
+Retrying fugitive
 
